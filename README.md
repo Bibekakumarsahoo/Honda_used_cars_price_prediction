@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Bibekakumarsahoo
-- 👀 I’m interested in data analytics, data engineering, business analytics, data science field.
-- 🌱 I’m currently learning data analytics course at Great learing
-- 💞️ I’m looking to collaborate on Projects, real world problems.
-- 📫 You can email me on bibeksahoo530@gmail.com
+Objective: To Predict the best selling price of used cars of Honda company.
+Business Implication: Cleaned the data and focusing on cars condition, model, k.m driven predicted the price using Linear Regression using Python Sci-kit learn library.
+Outcome: Best price revealed and the accuracy of Linear regression was best fit.
 
-<!---
-Bibekakumarsahoo/Bibekakumarsahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills used: Python:- Pandas, Sci-kit learn, Linear regression
